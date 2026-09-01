@@ -16,6 +16,3 @@ Hey! I’m a Software & Game Engineering student who’s passionate about game d
 ![](https://github-profile-trophy.vercel.app/?username=AriAja17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AriAja17&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
