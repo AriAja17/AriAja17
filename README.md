@@ -55,8 +55,6 @@ Tools: Vite, Postman, Cloudflare, Arduino
 | Credential name | Issuing body | YYYY-MM | Credential URL |
 | Credential name | Issuing body | YYYY-MM | Credential URL |
 
-One row per credential. Badge images can replace the name in the first column.
-
 ## Stats
 
 <!-- cool-readme:start -->
