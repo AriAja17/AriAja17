@@ -8,7 +8,7 @@ count:
 
 look:
   style: dotmatrix
-  color: blue
+  color: github
   background: 0b0f14
 
 cards:
