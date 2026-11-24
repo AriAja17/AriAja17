@@ -1,6 +1,6 @@
 user: AriAja17
 
-show: [summary, languages, contributions, weekly]
+show: [summary, languages, contributions, weekly, streaks]
 
 count:
   private: true
@@ -8,7 +8,7 @@ count:
 
 look:
   style: classic
-  color: github
+  color: blue
   background: none
 
 cards:
