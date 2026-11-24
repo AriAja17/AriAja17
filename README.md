@@ -55,34 +55,44 @@ Tools: Vite, Postman, Cloudflare, Arduino
 | Credential name | Issuing body | YYYY-MM | Credential URL |
 | Credential name | Issuing body | YYYY-MM | Credential URL |
 
+One row per credential. Badge images can replace the name in the first column.
+
 ## Stats
 
 <!-- cool-readme:start -->
 <!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
-<p align="center">
+<div style="background-color:#0b0f14; border:1px solid #30363d; border-radius:12px; width:100%">
+<table>
+<tr>
+<td width="50%" style="padding:4px">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/summary-dark.svg">
-  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/summary-light.svg" width="400" alt="GitHub stats">
+  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/summary-light.svg" width="450" alt="GitHub stats">
 </picture>
+</td>
+<td width="50%" style="padding:4px">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/languages-dark.svg">
-  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/languages-light.svg" width="400" alt="Most used languages">
+  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/languages-light.svg" width="450" alt="Most used languages">
 </picture>
-</p>
-<p align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" style="padding:4px">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/contributions-dark.svg">
-  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/contributions-light.svg" width="400" alt="Notable contributions">
+  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/contributions-light.svg" width="450" alt="Notable contributions">
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/weekly-dark.svg">
-  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
-</picture>
+</td>
+<td width="50%" style="padding:4px">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/streaks-dark.svg">
-  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/streaks-light.svg" width="400" alt="Streaks">
+  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/streaks-light.svg" width="450" alt="Streaks">
 </picture>
-</p>
+</td>
+</tr>
+</table>
+</div>
 <!-- cool-readme:end -->
 
 ## Contact
