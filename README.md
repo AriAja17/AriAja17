@@ -65,28 +65,28 @@ One row per credential. Badge images can replace the name in the first column.
 <tr>
 <td width="50%">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/summary-dark.svg">
-  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/summary-light.svg" width="450" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/summary-dark.svg?v=4">
+  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/summary-light.svg?v=4" width="450" alt="GitHub stats">
 </picture>
 </td>
 <td width="50%">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/languages-dark.svg">
-  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/languages-light.svg" width="450" alt="Most used languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/languages-dark.svg?v=4">
+  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/languages-light.svg?v=4" width="450" alt="Most used languages">
 </picture>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/contributions-dark.svg">
-  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/contributions-light.svg" width="450" alt="Notable contributions">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/contributions-dark.svg?v=4">
+  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/contributions-light.svg?v=4" width="450" alt="Notable contributions">
 </picture>
 </td>
 <td width="50%">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/streaks-dark.svg">
-  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/streaks-light.svg" width="450" alt="Streaks">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/streaks-dark.svg?v=4">
+  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/streaks-light.svg?v=4" width="450" alt="Streaks">
 </picture>
 </td>
 </tr>
