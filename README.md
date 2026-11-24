@@ -80,6 +80,10 @@ One row per credential. Badge images can replace the name in the first column.
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/weekly-dark.svg">
   <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/streaks-dark.svg">
+  <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/streaks-light.svg" width="400" alt="Streaks">
+</picture>
 </p>
 <!-- cool-readme:end -->
 
