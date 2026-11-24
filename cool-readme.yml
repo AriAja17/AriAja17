@@ -1,0 +1,21 @@
+user: AriAja17
+
+show: [summary, languages, contributions, weekly]
+
+count:
+  private: true
+  orgs: true
+
+look:
+  style: classic
+  color: github
+  background: none
+
+cards:
+  summary:
+    ring: github
+  languages:
+    count: 6
+    other: true
+  contributions:
+    open: true
