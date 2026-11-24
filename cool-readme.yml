@@ -1,15 +1,15 @@
 user: AriAja17
 
-show: [summary, languages, contributions, weekly, streaks]
+show: [summary, languages, contributions, streaks]
 
 count:
   private: true
   orgs: true
 
 look:
-  style: classic
+  style: dotmatrix
   color: blue
-  background: none
+  background: 0b0f14
 
 cards:
   summary:
