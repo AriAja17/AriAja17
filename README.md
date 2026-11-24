@@ -61,16 +61,15 @@ One row per credential. Badge images can replace the name in the first column.
 
 <!-- cool-readme:start -->
 <!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
-<div style="background-color:#0b0f14; border:1px solid #30363d; border-radius:12px; width:100%">
-<table>
+<table cellpadding="0" cellspacing="0" border="0">
 <tr>
-<td width="50%" style="padding:4px">
+<td width="50%">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/summary-dark.svg">
   <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/summary-light.svg" width="450" alt="GitHub stats">
 </picture>
 </td>
-<td width="50%" style="padding:4px">
+<td width="50%">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/languages-dark.svg">
   <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/languages-light.svg" width="450" alt="Most used languages">
@@ -78,13 +77,13 @@ One row per credential. Badge images can replace the name in the first column.
 </td>
 </tr>
 <tr>
-<td width="50%" style="padding:4px">
+<td width="50%">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/contributions-dark.svg">
   <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/contributions-light.svg" width="450" alt="Notable contributions">
 </picture>
 </td>
-<td width="50%" style="padding:4px">
+<td width="50%">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/streaks-dark.svg">
   <img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/streaks-light.svg" width="450" alt="Streaks">
@@ -92,7 +91,6 @@ One row per credential. Badge images can replace the name in the first column.
 </td>
 </tr>
 </table>
-</div>
 <!-- cool-readme:end -->
 
 ## Contact
