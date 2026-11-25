@@ -19,6 +19,12 @@ jobs:
         with:
           token: ${{ secrets.CARDS_TOKEN }}
           output: ${{ runner.temp }}/cards
+      # Keep the animations on even when the viewer has reduced motion enabled.
+      - name: Allow animation in every browser
+        run: |
+          for f in "$RUNNER_TEMP"/cards/*.svg; do
+            perl -0777 -i -pe 's/\@media \(prefers-reduced-motion: reduce\) \{ \* \{ animation: none !important; \} \}//g' "$f"
+          done
       # The cards live on their own branch, as a single commit replaced on each change, so they
       # don't add to the history of your main branch.
       - name: Publish the cards on the cards branch
