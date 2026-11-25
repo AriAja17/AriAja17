@@ -56,11 +56,11 @@ Nice to meet you!
 **Selected work**
 
 <!-- builds start -->
-- [campfireOverhaulPlus](https://github.com/AriAja17/campfireOverhaulPlus) — Minecraft mod, Java
-- [Afk-Bot-For-Minecraft-Server](https://github.com/AriAja17/Afk-Bot-For-Minecraft-Server) — Minecraft server bot
-- [KOTOWA](https://github.com/AriAja17/KOTOWA) — Japanese vocabulary web app, TypeScript
-- [Kashi-No-Uta](https://github.com/AriAja17/Kashi-No-Uta) — song-meaning sharing site, TypeScript
-- [pkl-web-POS](https://github.com/AriAja17/pkl-web-POS) — point-of-sale web app, TypeScript
+- [campfireOverhaulPlus](https://github.com/AriAja17/campfireOverhaulPlus) - Fork Minecraft mod, Java
+- [Afk-Bot-For-Minecraft-Server](https://github.com/AriAja17/Afk-Bot-For-Minecraft-Server) - Fork Minecraft server bot
+- [KOTOWA](https://github.com/AriAja17/KOTOWA) - Japanese vocabulary web app, TypeScript
+- [Kashi-No-Uta](https://github.com/AriAja17/Kashi-No-Uta) - song-meaning sharing site, TypeScript
+- [pkl-web-POS](https://github.com/AriAja17/pkl-web-POS) - point-of-sale web app, TypeScript
 <!-- builds end -->
 
 </td>
@@ -74,7 +74,7 @@ Nice to meet you!
 | Credential name | Issuing body | YYYY-MM | Credential URL |
 | Credential name | Issuing body | YYYY-MM | Credential URL |
 
-One row per credential. Badge images can replace the name in the first column.
+*being worked on :>
 
 ## Stats
 
