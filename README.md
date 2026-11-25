@@ -7,8 +7,8 @@ Recent builds are Minecraft server tooling, a campfire overhaul mod, and small w
 
 ## About
 
-Hey! IÃ¢ÂÂm a Software & Game Engineering student whoÃ¢ÂÂs passionate about game development.<br>
-IÃ¢ÂÂm currently learning and experimenting with different technologies while working on various designs and projects. AI has also become one of the tools I use to help turn my ideas into reality.<br>
+Hey! IÃÂ¢ÃÂÃÂm a Software & Game Engineering student whoÃÂ¢ÃÂÃÂs passionate about game development.<br>
+IÃÂ¢ÃÂÃÂm currently learning and experimenting with different technologies while working on various designs and projects. AI has also become one of the tools I use to help turn my ideas into reality.<br>
 Still learning, still building, and hopefully making something cool along the way.<br>
 Nice to meet you!
 
@@ -37,11 +37,11 @@ Tools: Vite, Postman, Cloudflare, Arduino
 **Selected work**
 
 <!-- builds start -->
-- [campfireOverhaulPlus](https://github.com/AriAja17/campfireOverhaulPlus) Ã¢ÂÂ Minecraft mod, Java
-- [Afk-Bot-For-Minecraft-Server](https://github.com/AriAja17/Afk-Bot-For-Minecraft-Server) Ã¢ÂÂ Minecraft server bot
-- [KOTOWA](https://github.com/AriAja17/KOTOWA) Ã¢ÂÂ Japanese vocabulary web app, TypeScript
-- [Kashi-No-Uta](https://github.com/AriAja17/Kashi-No-Uta) Ã¢ÂÂ song-meaning sharing site, TypeScript
-- [pkl-web-POS](https://github.com/AriAja17/pkl-web-POS) Ã¢ÂÂ point-of-sale web app, TypeScript
+- [campfireOverhaulPlus](https://github.com/AriAja17/campfireOverhaulPlus) ÃÂ¢ÃÂÃÂ Minecraft mod, Java
+- [Afk-Bot-For-Minecraft-Server](https://github.com/AriAja17/Afk-Bot-For-Minecraft-Server) ÃÂ¢ÃÂÃÂ Minecraft server bot
+- [KOTOWA](https://github.com/AriAja17/KOTOWA) ÃÂ¢ÃÂÃÂ Japanese vocabulary web app, TypeScript
+- [Kashi-No-Uta](https://github.com/AriAja17/Kashi-No-Uta) ÃÂ¢ÃÂÃÂ song-meaning sharing site, TypeScript
+- [pkl-web-POS](https://github.com/AriAja17/pkl-web-POS) ÃÂ¢ÃÂÃÂ point-of-sale web app, TypeScript
 <!-- builds end -->
 
 </td>
@@ -62,8 +62,8 @@ One row per credential. Badge images can replace the name in the first column.
 <!-- cool-readme:start -->
 <!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
 <div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/summary-dark.svg?v=5"><img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/summary-light.svg?v=5" width="435" alt="GitHub stats"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/languages-dark.svg?v=5"><img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/languages-light.svg?v=5" width="435" alt="Most used languages"></picture><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/contributions-dark.svg?v=5"><img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/contributions-light.svg?v=5" width="435" alt="Notable contributions"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/streaks-dark.svg?v=5"><img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/streaks-light.svg?v=5" width="435" alt="Streaks"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/summary-dark.svg?v=5"><img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/summary-light.svg?v=5" width="415" alt="GitHub stats"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/languages-dark.svg?v=5"><img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/languages-light.svg?v=5" width="415" alt="Most used languages"></picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/contributions-dark.svg?v=5"><img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/contributions-light.svg?v=5" width="415" alt="Notable contributions"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/streaks-dark.svg?v=5"><img src="https://raw.githubusercontent.com/AriAja17/AriAja17/cards/streaks-light.svg?v=5" width="415" alt="Streaks"></picture>
 </div>
 <!-- cool-readme:end -->
 
